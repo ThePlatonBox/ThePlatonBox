@@ -1,7 +1,6 @@
 Hello, Friend. 
 You can contact me: tg @e11iot_1337
 
-![](https://komarev.com/ghpvc/?username=e11iot-1337)
 
 <picture>
   <source
