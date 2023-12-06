@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ThePlatonBox
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, JS
-- 📫 How to reach me: t.me/thencore_new
+Hello, Friend. 
+You can contact me: tg @e11iot_1337
 
 ![](https://komarev.com/ghpvc/?username=Nefrit9087)
 
